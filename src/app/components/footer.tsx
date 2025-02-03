@@ -10,8 +10,7 @@ function Footer() {
         <div>
           <h3 className="text-xl font-semibold mb-4">ABOUT ME</h3>
           <p>
-            I am a passionate web developer specializing in front-end development.
-            I create modern and responsive designs, bringing ideas to life on the web.
+            I am a Frontend Developer, I create engaging and responsive web interfaces using HTML, CSS, and JavaScript frameworks, ensuring a seamless and user-friendly experience.
           </p>
         </div>
 
@@ -45,13 +44,13 @@ function Footer() {
           <h3 className="text-xl font-semibold mb-4">CONTACT INFO</h3>
           <div className="space-y-2">
             <span className="flex items-center">
-              <FaLocationDot className="mr-2 text-xl" /> 123 Street Name, City, Country
+              <FaLocationDot className="mr-2 text-xl" /> Model Colony, karachi, Pakistan
             </span>
             <span className="flex items-center">
-              <FaPhoneAlt className="mr-2 text-xl" /> +1 123 456 7890
+              <FaPhoneAlt className="mr-2 text-xl" /> +92 1234567890
             </span>
             <span className="flex items-center">
-              <IoMdMail className="mr-2 text-xl" /> myemail@example.com
+              <IoMdMail className="mr-2 text-xl" /> awanfiza95@gmail.com
             </span>
           </div>
         </div>

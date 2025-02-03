@@ -11,7 +11,7 @@ export default function Hero() {
       {/* Heading Section */}
       <div className="mt-12">
         <h1 className="font-serif text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-black leading-tight">
-          I m Shifa
+          I m Fiza
         </h1>
         <h2 className="font-serif text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-black mt-2 md:mt-4">
           I m a Developer
@@ -20,7 +20,8 @@ export default function Hero() {
 
       {/* Intro Paragraph */}
       <p className="mt-6 text-black text-sm sm:text-base md:text-lg lg:text-xl w-full sm:w-4/5 md:w-3/4 lg:w-2/3 xl:w-1/2 text-justify">
-        Hi  I m Shifa  a passionate web developer from Karachi Pakistan. Currently I m focused on honing my skills to become a successful full-stack developer. Creativity drives me  and I enjoy building unique projects especially in the e-commerce space. My goal is to push the boundaries of what I can create while delivering high-quality, innovative solutions.
+        
+Hi, I’m Fiza, a dedicated web developer from Karachi, Pakistan. I’m currently sharpening my skills to excel as a full-stack developer. Passionate about creativity, I love crafting unique projects, especially in e-commerce. My aim is to innovate and deliver top-notch, impactful solutions.
       </p>
 
       {/* Buttons Section */}
