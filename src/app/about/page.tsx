@@ -24,13 +24,14 @@ export default function About() {
         {/* Description */}
         <div className="md:w-1/2 text-justify text-base leading-relaxed font-serif px-4 md:px-0">
           <p className="mb-4">
-            I m Fiza Awan a Frontend Developer, I create engaging and responsive web interfaces using HTML, CSS, Typescript, React, Next.js, React, Tailwind CSS, ensuring a seamless and user-friendly experience.
+            I m Shifa M. Akram  a passionate web developer dedicated to turning ideas into seamless digital experiences. I specialize in modern  responsive designs and scalable solutions.
+          </p>
           <div className="text-lg font-serif space-y-2">
-            <p><strong>Name:</strong> Fiza</p>
-            <p><strong>Date of Birth:</strong> octuber 14, 2006</p>
+            <p><strong>Name:</strong> Shifa</p>
+            <p><strong>Date of Birth:</strong> February 12, 2005</p>
             <p><strong>Address:</strong> Karachi, Pakistan</p>
-            <p><strong>Phone:</strong> +92 1234567890</p>
-            <p><strong>Email:</strong> <a href="awanfiza95@gmail.com" className="text-blue-600 underline">awanfiza952gmail.com</a></p>
+            <p><strong>Phone:</strong> 1234-9876</p>
+            <p><strong>Email:</strong> <a href="mailto:hongking@gmail.com" className="text-blue-600 underline">hongking@gmail.com</a></p>
           </div>
         </div>
       </div>
